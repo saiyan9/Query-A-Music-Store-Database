@@ -15,9 +15,6 @@ In this project, you will query the Chinook Database. The Chinook Database holds
 *  README.md
 
 ## Skills Used
-*  Queries
-  Please include a text file that includes each of the queries used to create the visualizations.
-
   * All SQL queries run without errors and produce the intended results.
   * Each SQL query needs to include one or more explicit join(s). The query's JOIN or JOINs should be necessary to answer the question.      
   * If a question does not require a JOIN, please change the question to be one that does.
