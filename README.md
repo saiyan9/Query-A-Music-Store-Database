@@ -11,8 +11,10 @@ In this project, you will query the Chinook Database. The Chinook Database holds
 * Powerpoint
 
 ## Structure
-
-*  README.md
+ * Digital Music Store Database.xlsx
+ * README.md
+ * SQL Project Presentation.pdf
+ * SQL Project Queries.txt
 
 ## Skills Used
   * All SQL queries run without errors and produce the intended results.
